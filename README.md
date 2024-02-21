@@ -1,1 +1,1 @@
-# Flames-Game
+# Flames-Calculator
